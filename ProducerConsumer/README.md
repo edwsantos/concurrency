@@ -1,4 +1,8 @@
 # Producer - Consumer exercise
+This is an alternative solution to the Producer / Consumer exercise did in [this other repository](../ProducerConsumerWaitNotify/README.md).  
+In this case, I'm using a BlockingQueue data structure.
+
+___
 The goal of this excercise is to create a producer / consumer algorithm
 
 ___
